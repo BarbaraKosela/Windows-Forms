@@ -96,6 +96,7 @@
             // MTBVALOR
             // 
             this.MTBVALOR.Location = new System.Drawing.Point(312, 77);
+            this.MTBVALOR.Mask = "990.00";
             this.MTBVALOR.Name = "MTBVALOR";
             this.MTBVALOR.Size = new System.Drawing.Size(100, 20);
             this.MTBVALOR.TabIndex = 6;
@@ -123,6 +124,7 @@
             // MTBVALOR2
             // 
             this.MTBVALOR2.Location = new System.Drawing.Point(312, 129);
+            this.MTBVALOR2.Mask = "990-00";
             this.MTBVALOR2.Name = "MTBVALOR2";
             this.MTBVALOR2.Size = new System.Drawing.Size(100, 20);
             this.MTBVALOR2.TabIndex = 12;
@@ -175,6 +177,7 @@
             // MTBVALOR3
             // 
             this.MTBVALOR3.Location = new System.Drawing.Point(312, 183);
+            this.MTBVALOR3.Mask = "990.00";
             this.MTBVALOR3.Name = "MTBVALOR3";
             this.MTBVALOR3.Size = new System.Drawing.Size(100, 20);
             this.MTBVALOR3.TabIndex = 18;
@@ -274,6 +277,7 @@
             this.button1.TabIndex = 24;
             this.button1.Text = "EXECUTAR";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // RBPF
             // 
