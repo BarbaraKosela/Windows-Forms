@@ -1,0 +1,8 @@
+# - Você pode digitar +/- [Opicional]
+0 - Digitar zero to 9 [Requerido]
+9 - Digitar 0 - 9 [Opcional]
+A - Alfanumérico [Requerido]
+a - Alfanumérico [Opcional]
+L - Letras a-z, A-Z [Requerido]
+? - Letras a-z, A-Z [Opcional]
+C - Qualquer caractere não controlado [Opcional] 
