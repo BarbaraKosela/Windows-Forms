@@ -20,7 +20,8 @@ namespace ExemploWFA
             //Application.Run(new Exemplo02());
             //Application.Run(new Exemplo03());
             //Application.Run(new Exemplo04());
-            Application.Run(new Exemplo05());
+            //Application.Run(new Exemplo05());
+            Application.Run(new Principal());
         }
     }
 }

@@ -22,3 +22,4 @@ C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\bin\Debug\E
 C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.pdb
 C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Exemplo04.resources
 C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Exemplo05.resources
+C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Principal.resources

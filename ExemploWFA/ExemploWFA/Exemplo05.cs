@@ -38,7 +38,7 @@ namespace ExemploWFA
 
             else
             {
-               texto +=("Vai comprar o WinRar menino(a) malandrinho(a)");
+               texto += ("Vai comprar o WinRar menino(a) malandrinho(a)");
             }
 
             MessageBox.Show(texto);
