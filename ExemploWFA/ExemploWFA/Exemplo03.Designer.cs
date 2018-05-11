@@ -124,7 +124,7 @@
             // MTBVALOR2
             // 
             this.MTBVALOR2.Location = new System.Drawing.Point(312, 129);
-            this.MTBVALOR2.Mask = "990-00";
+            this.MTBVALOR2.Mask = "990.00";
             this.MTBVALOR2.Name = "MTBVALOR2";
             this.MTBVALOR2.Size = new System.Drawing.Size(100, 20);
             this.MTBVALOR2.TabIndex = 12;
