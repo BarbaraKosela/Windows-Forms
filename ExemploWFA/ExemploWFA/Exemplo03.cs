@@ -24,6 +24,7 @@ namespace ExemploWFA
 
         private void button1_Click(object sender, EventArgs e)
         {
+            ArmazenarInformacoes();
             if (RBSOMAR.Checked)
             {
 
@@ -58,6 +59,7 @@ namespace ExemploWFA
 
         private void ArmazenarInformacoes()
         {
+            
             quantidade1 = Convert.ToInt32(NUPQTD.Value);
             valor1 = Convert.ToDouble(MTBVALOR.Text);
 
@@ -73,14 +75,14 @@ namespace ExemploWFA
             public void Somar()
             {
 
-                ArmazenarInformacoes();
+                
                 MessageBox.Show("Soma: " + total);
             }
 
             public void Media()
             {
 
-                ArmazenarInformacoes();
+                
                 double media = total / 3;
                 MessageBox.Show("Média: " + media);
 
@@ -90,17 +92,17 @@ namespace ExemploWFA
             {
                 double menorValor = int.MaxValue;
 
-                if (menorValor < valor1)
+                if (menorValor > valor1)
                 {
                     menorValor = valor1;
                 }
 
-                if (menorValor < valor2)
+                if (menorValor > valor2)
                 {
                     menorValor = valor2;
                 }
 
-                if (menorValor < valor3)
+                if (menorValor > valor3)
                 {
                     menorValor = valor3;
                 }
@@ -112,17 +114,17 @@ namespace ExemploWFA
             {
                 double maiorValor = int.MinValue;
 
-                if (maiorValor > valor1)
+                if (maiorValor < valor1)
                 {
                     maiorValor = valor1;
                 }
 
-                if (maiorValor > valor2)
+                if (maiorValor < valor2)
                 {
                     maiorValor = valor2;
                 }
 
-                if (maiorValor > valor3)
+                if (maiorValor < valor3)
                 {
                     maiorValor = valor3;
                 }
