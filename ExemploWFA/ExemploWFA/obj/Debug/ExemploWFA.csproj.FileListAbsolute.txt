@@ -20,3 +20,4 @@ C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\obj\Debug\E
 C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.csproj.GenerateResource.Cache
 C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.exe
 C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\bin\Debug\ExemploWFA.pdb
+C:\Users\104962\Documents\GitHub\Windows-Forms\ExemploWFA\ExemploWFA\obj\Debug\ExemploWFA.Exemplo04.resources
