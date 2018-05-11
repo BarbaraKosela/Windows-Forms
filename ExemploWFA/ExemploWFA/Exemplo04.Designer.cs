@@ -43,6 +43,7 @@
             // RBSIM
             // 
             this.RBSIM.AutoSize = true;
+            this.RBSIM.Checked = true;
             this.RBSIM.Font = new System.Drawing.Font("Square721 BT", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RBSIM.Location = new System.Drawing.Point(32, 19);
             this.RBSIM.Name = "RBSIM";
@@ -80,6 +81,7 @@
             // RBFRANCISNITE
             // 
             this.RBFRANCISNITE.AutoSize = true;
+            this.RBFRANCISNITE.Checked = true;
             this.RBFRANCISNITE.Font = new System.Drawing.Font("Square721 BT", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RBFRANCISNITE.Location = new System.Drawing.Point(37, 48);
             this.RBFRANCISNITE.Name = "RBFRANCISNITE";
